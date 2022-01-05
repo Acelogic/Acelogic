@@ -1,5 +1,3 @@
-# Welcome to My Github 💻
-
 
 <img src="https://github.com/Acelogic/Acelogic/blob/master/Github.gif?raw=true" width="800" height="300"/>
 
