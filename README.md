@@ -11,7 +11,7 @@
 
 ✔️ I am **Miguel Cruz**, currently pursuing my bachelors from Suny Oswego in *Computer Science*.<br>
 
-✔️ I am interested in Mobile Operating System development and security since 2011 starting with IOS 5 and Android Gingerbread<br>
+✔️ I am interested in Desktop and Mobile Operating System development and security since 2011 starting with IOS 5 and Android Gingerbread<br>
 
 ✔️ I have experience in FULL stack web development<br>
 
