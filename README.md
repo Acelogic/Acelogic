@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 📀 **About myself**<br>
 
-✔️ I am **Miguel Cruz**, a Software Developer interested in Desktop and Mobile Operating System development and security since 2011 starting with IOS 5  and Android Gingerbread<br>
+✔️ I am **Miguel Cruz**, a Software Engineer interested in Desktop and Mobile Operating System development and security since 2011 starting with IOS 5  and Android Gingerbread<br>
 
 ✔️ I have experience in FULL stack web development and also embedded development<br>
 
