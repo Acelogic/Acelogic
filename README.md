@@ -7,13 +7,15 @@
 
 
 <!--ABOUT ME CODE-->
-**About myself**<br>
+**🌱 About myself**<br>
 
 ✔️ I am **Miguel Cruz**, a Software Engineer interested in desktop and mobile operating system development and security since 2011 starting with IOS 5 and Android Gingerbread<br>
 
-✔️ I have experience in FULL stack web development and also embedded development<br>
+✔️ I have experience in full stack web development and also embedded development<br>
 
-✔️ I have been the participant of Open-source projects, Robotic competitions, and Startup Incubators starting from 2014.
+✔️ I have been the participant of Opensource projects (QEMU, Virtio, NewPipe), Robotic competitions, and startup incubators starting from 2014.
+
+👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
 
 <br>
 
