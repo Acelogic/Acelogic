@@ -13,7 +13,7 @@
 
 ✔️ I have experience in full stack web development and also embedded development<br>
 
-✔️ I have been the participant of Opensource projects (QEMU, Virtio, NewPipe), Robotic competitions, and startup incubators starting from 2014.
+✔️ I have been the participant of Opensource projects (QEMU, Virtio, Linux Kernel, NewPipe), Robotic competitions, and startup incubators starting from 2014.
 
 👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
 
