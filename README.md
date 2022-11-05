@@ -3,7 +3,7 @@
 
 
 
-<h2 align=left>👋 Good to have you here!!</h2>
+<h2 align=center>👋 Good to have you here!!</h2>
 
 
 <!--ABOUT ME CODE-->
