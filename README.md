@@ -9,13 +9,11 @@
 <!--ABOUT ME CODE-->
 **🌱 About myself**<br>
 
-✔️ I am **Miguel Cruz**, a Software Engineer interested in desktop, mobile operating system development, and security since 2011 starting with IOS 5 and Android Gingerbread<br>
+Hey there! 👋 My name is Miguel Cruz, and I am a 💻 software engineer with a passion for developing desktop and mobile operating systems and enhancing their security. Since 2011, I have been exploring and perfecting my skills in this area, starting with IOS 5 and Android Gingerbread.
 
-✔️ I have experience in full stack web development and also embedded development<br>
+My experience extends beyond this domain, and I have also dabbled in full-stack web development and embedded development. Additionally, I take great pride in my contributions to several open-source projects, such as QEMU, Virtio, Linux Kernel, and NewPipe. Furthermore, I have been actively involved in various robotic competitions and startup incubators since 2014.
 
-✔️ I have been the participant of Opensource projects (QEMU, Virtio, Linux Kernel, NewPipe), Robotic competitions, and startup incubators starting from 2014.
-
-👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
+I am always on the lookout for exciting new collaboration opportunities and am willing to take on any challenge. Feel free to reach out to me if you have any questions or ideas you'd like to explore. Let's work together to create something great! 👨🏼‍💻🤝💡
 
 <br>
 
