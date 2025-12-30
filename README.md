@@ -9,11 +9,15 @@
 <!--ABOUT ME CODE-->
 **🌱 About myself**<br>
 
-Hey there! 👋 My name is Miguel Cruz, and I am a 💻 software engineer with a passion for developing desktop and mobile operating systems and enhancing their security. Since 2011, I have been exploring and perfecting my skills in this area, starting with IOS 5 and Android Gingerbread.
+Hey! 👋 I’m Miguel Cruz, a 💻 software engineer focused on desktop and mobile operating systems, with a strong emphasis on security.
+I’ve been working in this space since 2011, starting with iOS 5 and Android Gingerbread. Over the years, I’ve also gained experience in full-stack web development and embedded systems.
+I contribute to open-source projects such as QEMU, Virtio, the Linux Kernel, and NewPipe, and I’ve been involved in robotics competitions and startup incubators since 2014.
+Since 2019, I’ve been working with AI and transformers, starting with GPT-2. I’ve also been building financial projects, including options trading systems, financial modeling, and custom backtesting engines.
+I’m always open to new challenges and collaborations—feel free to reach out if you’d like to build something together.
 
-My experience extends beyond this domain, and I have also dabbled in full-stack web development and embedded development. Additionally, I take great pride in my contributions to several open-source projects, such as QEMU, Virtio, Linux Kernel, and NewPipe. Furthermore, I have been actively involved in various robotic competitions and startup incubators since 2014.
 
-I am always on the lookout for exciting new collaboration opportunities and am willing to take on any challenge. Feel free to reach out to me if you have any questions or ideas you'd like to explore. Let's work together to create something great! 👨🏼‍💻🤝💡
+
+
 
 <br>
 
