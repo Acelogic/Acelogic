@@ -27,6 +27,15 @@ I've been working with mobile and desktop operating systems since 2011, starting
 
 ---
 
+## 🛠️ Projects
+
+- **[Retrieval-based-Voice-Conversion-MLX](https://github.com/Acelogic/Retrieval-based-Voice-Conversion-MLX)** — Pure MLX implementation of RVC for Apple Silicon, 8.71x faster than PyTorch MPS
+- **[LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX)** — Porting the LTX-2 video model to Apple's MLX framework
+- **[Earnings-Volatility-Calculator](https://github.com/Acelogic/Earnings-Volatility-Calculator)** — Options volatility analysis around earnings events (IV30/RV30, ATR, Yang-Zhang)
+- **[Testfol-MarginStresser](https://github.com/Acelogic/Testfol-MarginStresser)** — Portfolio backtesting with margin trading and tax simulation
+
+---
+
 ## 🌍 Open Source
 
 I contribute to a few projects I care about:
