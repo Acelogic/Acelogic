@@ -1,4 +1,4 @@
-![](https://github.com/Acelogic/Acelogic/raw/master/Github.gif?raw=true)
+![Acelogic](banner.gif)
 
 # Hey, I'm Miguel 👋
 
@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 
-I've been taking operating systems apart since 2011, starting with iOS 5 jailbreaks and Android Gingerbread, and picked up robotics, [emulators](https://github.com/Acelogic/CHIP-8-C) and a [Unix shell](https://github.com/Acelogic/TSHImplementation) along the way. These days I'm booting Linux on undocumented Apple and Qualcomm silicon, building a PS5 runtime, and porting new generative models to MLX, usually with a few coding agents running alongside me. Off the clock, I sell options and build tools to stress-test my portfolio.
+I've been taking operating systems apart since 2011, starting with iOS 5 jailbreaks and Android Gingerbread, and picked up robotics, emulators and a Unix shell along the way. These days I'm booting Linux on undocumented Apple and Qualcomm silicon, building a PS5 runtime, and porting new generative models to MLX, usually with a few coding agents running alongside me. Off the clock, I sell options and build tools to stress-test my portfolio.
 
 ---
 
